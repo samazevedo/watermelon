@@ -9,7 +9,7 @@ export const Page = () => {
 					PAGE
 				</h1>
 
-				<h1>WATERMELON</h1>
+				<h2>WATERMELON</h2>
 				<p>
 					This project showcases a 3D model of a watermelon slice using React,
 					TypeScript, and React Three Fiber, providing a visually appealing and

@@ -28,6 +28,11 @@ h1 {
 	color: #ffffff;
 	text-shadow: 0.5rem 0.7rem 0 #000000;
 }
+h2 {
+	font-size: 5rem;
+	color: #ffffff;
+	text-shadow: 0.5rem 0.7rem 0 #000000;
+}
 p {
 	font-size: 1.5rem;
 	text-shadow: 0.1rem 0.1rem 0 #ffffff;
@@ -38,4 +43,18 @@ li {
 a {
 	text-decoration: none;
 	color: #ffffff;
+}
+@media (max-width: 768px) {
+	.page {
+		max-width: 17rem;
+	}
+	h1 {
+		font-size: 3rem;
+	}
+	h2 {
+		font-size: 1.5rem;
+	}
+	p {
+		font-size: 1rem;
+	}
 }
